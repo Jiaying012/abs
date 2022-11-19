@@ -10,16 +10,7 @@
     font-family: 'Poppins', sans-serif;
   }
 
-ul {
-    font-family: 'Poppins', sans-serif;
-}
-li {
-    list-style: circle;
-  }
-  
-  .list {
-    list-style: square;
-  }
+
 
 .topnav {
     background-color: var(--hc);
