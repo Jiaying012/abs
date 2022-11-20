@@ -14,4 +14,4 @@ JavaScript, CSS, HTML, React
 limited time is a big challenge for us, we initially designed many functionalities but we did not have time to implement them.
 
 ### What we have learned:
-Our team was composed of 3 beginners to web development, and we learned and applied everything within 36hrs.
+Our team was composed of 4 beginners to web development, and we learned and applied everything within 36hrs.
